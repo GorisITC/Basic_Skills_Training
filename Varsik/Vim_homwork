@@ -1,0 +1,11 @@
+1 Open Vim file
+2. Go to Insert Mote tapping on the i button
+3. Enter 1 number on 1 line
+4. Tap Esk 
+5 Start record qa
+6.cnrl v y [1]
+7. Navigate to the second line
+8. tap on Shift+P 
+9. Tap on Ctrl+a
+10. Tap on q for spping the record
+11.Enter numer of lines and @a (ex. 5@a)
