@@ -1,1 +1,1 @@
-GET www.anush.com/request/example.html HTTP/1.0
+GET /anush.com/request/example.html HTTP/1.0
