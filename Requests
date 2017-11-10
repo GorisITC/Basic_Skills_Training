@@ -13,3 +13,14 @@ Anna
 https://instigatemibile.com/employees/male?age=20/
 Mane
 https://familymembers.com/members/amount?male=2/
+
+________________________________________________________
+Arus-HomeTask
+GET /arus.homework.com/Home/Barev.txt HTTP/2.0
+
+Request (create endpoint) URL:
+1. https://instigatemobile.com/employees
+2. https://instigatemobile.com/employees/search?aghjikner=true|tghaner=true
+3. a) https://instigatemobile.com/employees/search/?page=1&gt=<given><argument>
+3. b) https://instigatemobile.com/employees?id={"gt":20}
+_______________________done_____________________________
