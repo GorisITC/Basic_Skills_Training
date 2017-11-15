@@ -1,5 +1,5 @@
-int a = employeesCount();
-if(a >= 40){
+int count = employeesCount();
+if(count >= 40){
 print("Gig company");
 } else {
 print("Small company");
