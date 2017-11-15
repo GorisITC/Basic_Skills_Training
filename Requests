@@ -24,3 +24,14 @@ Request (create endpoint) URL:
 3. a) https://instigatemobile.com/employees/search/?page=1&gt=<given><argument>
 3. b) https://instigatemobile.com/employees?id={"gt":20}
 _______________________done_____________________________
+
+Zori
+https://example.com/employees
+https://example.com/employees/male
+https://example.com/employees/female
+https://example.com/employees/male?age=68
+https://example.com/employees/female?age=20&experience=2
+
+
+
+
