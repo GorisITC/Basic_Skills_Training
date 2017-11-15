@@ -1,0 +1,5 @@
+Get https://example.com/goodExample/veryGoodExample
+
+curl example:
+curl -X GET http:/example.com/goodExample/veryGoodExample/ -H 'accept: application/json'
+curl -X POST http:/example.com/goodExample/veryGoodExample/ -H 'accept: application/json' -H 'Content-Type: application/json' -d {'type': 'mobile', 'OS': 'iOS'} 
