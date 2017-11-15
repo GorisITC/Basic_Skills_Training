@@ -1,0 +1,6 @@
+int a = employeesCount();
+if(a > 20){
+print("Gig company");
+} else {
+print("Small company");
+}
