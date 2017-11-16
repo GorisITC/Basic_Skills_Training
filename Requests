@@ -47,3 +47,12 @@ https://cars.com/search?type=sedans/Audi?year=2015&model=A5&price=17000$
 
 Anna
 https://instigatemibile.com/employees/male?age=20/
+
+__________________________________________________________
+Aleta
+GET https://mobile/employee/{gender}?years={the working years count. e.g 2}
+
+https://mobile/employee/girls
+https://mobile/employee/boys
+https://mobile/employee/girls?years=4
+https://mobile/employee/boys?years=7
