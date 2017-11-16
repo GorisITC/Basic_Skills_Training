@@ -1,2 +1,6 @@
-https://mobile/employee/girls?years>4
+GET https://mobile/employee/{gender}?years={the working years count. e.g 2}
 
+https://mobile/employee/girls
+https://mobile/employee/boys
+https://mobile/employee/girls?years=4
+https://mobile/employee/boys?years=7
