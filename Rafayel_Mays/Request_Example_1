@@ -1,0 +1,6 @@
+GET https://instigate/mobile/{location}/employee/{gender}?name={e.g Poxos}&height={ e.g 160}
+
+https://instigate/mobile/goirs/employee/boy?name=Rafayel&height=184
+https://instigate/mobile/goris/employee/boy?name=Arsen&height=179
+https://instigate/mobile/goris/employee/girl?name=Anush&height=160
+https://instigate/mobile/vandzor/employee/girl?name=Astghik&height=177

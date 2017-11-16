@@ -38,12 +38,41 @@ https://urlexample.com/.html/girls/female?age=20
 https://urlexample.com/.html/boys/male?age=20&name=Rafo
 
 ________________________________________________________
-Arsen
-https://cars.com/search?
-https://cars.com/search?type=sedans/
-https://cars.com/search?type=sedans/Audi?year=2015
-https://cars.com/search?type=sedans/Audi?year=2015&model=A5
-https://cars.com/search?type=sedans/Audi?year=2015&model=A5&price=17000$
+Arsen Simonyan.
+GET https://cars.com/search?type=<car type>&year=<year from 2015>&model=<car model>&price=<car price in dolars>
+
+https://cars.com/model/search?
+https://cars.com/model/search?type=sedans
+https://cars.com/search?type=sedansAudi&year=2015
+https://cars.com/search?type=sedansAudi&year=2015&model=A5
+https://cars.com/search?type=sedansAudi&year=2015&model=A5&price=17000
+
+https://buy.am/restorants/{give me restoran name}/info?addres={hasce}&telephone={give me Armenian mobile number}
+
+https://buy.am/restorants/wasabi/info
+https://buy.am/restorants/Abu_Hakob/info?adress=ankakhutyna%2098
+https://buy.am/restorants/Abu_Hakob/info?adress=ankakhutyna%2098&telephone=37423746238
+
 
 Anna
 https://instigatemibile.com/employees/male?age=20/
+
+__________________________________________________________
+Aleta
+GET https://mobile/employee/{gender}?years={the working years count. e.g 2}
+
+https://mobile/employee/girls
+https://mobile/employee/boys
+https://mobile/employee/girls?years=4
+https://mobile/employee/boys?years=7
+
+__________________________________________________________
+Varsik
+GET https://www.beachbodyondemand.com/trainers/tony-horton
+
+https://InstigateMobile_GorisBranch/Employee.html
+https://InstigateMobile_GorisBranch/Employee.html/?type=girls
+https://InstigateMobile_GorisBranch/Employee.html?type=boys
+https://InstigateMobile_GorisBranch/Employee.html/?type>=2year
+
+

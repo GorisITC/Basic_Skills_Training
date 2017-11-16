@@ -1,0 +1,12 @@
+GET
+https://d3aot1ac1llovi.cloudfront.net/socialFeeds/a-little-obsessed-related-content
+https://djoh2bun5byhj.cloudfront.net/wp-content/uploads/2016/10/20S_boxart-287x357.jpg
+
+POST
+https://uatapi-clu.teambeachody.com/authreg-qa4/user/login
+https://cs-tealium-web-prod.beachbodyondemand.com
+
+OPTIONS
+https://d3aotac1llovi.cloudfront.net/v2/trainers?purchaseRegion=US
+https;//d3aotac1llovi.cloudfront.net/v3/programs/a-little-obsessed
+

@@ -1,0 +1,169 @@
+commit 22bfaf3d89fadf1c3b9f1d014828ab6b93dab1f0
+Author: Sona Abrahamyan <sona@instigatemobile.com>
+Date:   Fri Nov 10 10:16:32 2017 +0400
+
+    Added Get Request
+
+commit f1499a53444d7b9cf578da9f1a3be8eb5dd7765e
+Merge: d190a58 771cdef
+Author: Sona Abrahamyan <sona@instigatemobile.com>
+Date:   Fri Nov 10 09:49:12 2017 +0400
+
+    Merge branch 'master' of https://github.com/JosephKarayan/Basic_Skills_Training
+
+commit d190a5861edae19a5e8c44362fc207bd496d26e1
+Merge: 62353f2 209c96e
+Author: Sona Abrahamyan <sona@instigatemobile.com>
+Date:   Fri Nov 10 09:46:30 2017 +0400
+
+    Merge branch 'master' of https://github.com/JosephKarayan/Basic_Skills_Training
+
+commit 771cdef5bb475c4e6478ba3022b60b0caaba094d
+Author: VarsikQaramyan <varsik@instigatemobile.com>
+Date:   Fri Nov 10 09:45:19 2017 +0400
+
+    Added new file.
+
+commit 62353f22184b6b05bdff6c1604b1c0512bce4bc1
+Author: Sona Abrahamyan <sona@instigatemobile.com>
+Date:   Fri Nov 10 09:43:20 2017 +0400
+
+    Added GET request
+
+commit 209c96e22851ad4158071fd53c2933f913054664
+Author: AnushInstigate <32926867+AnushInstigate@users.noreply.github.com>
+Date:   Fri Nov 10 07:53:04 2017 +0400
+
+    Responce_Examples
+
+commit a553f4d3d0a091dea1cf2c23b14dd8a959e94a40
+Author: AnushInstigate <32926867+AnushInstigate@users.noreply.github.com>
+Date:   Fri Nov 10 07:52:57 2017 +0400
+
+    Request_Examples
+
+commit ef39d6ed2c87251bd3542b20a9652634f174029a
+Author: harut <hdabaghyan-bb@github.com>
+Date:   Fri Nov 10 01:28:01 2017 +0400
+
+    added a folder
+
+commit b3a62c23623f69ac03725ea557b9ab83ce35e429
+Author: harut <hdabaghyan-bb@github.com>
+Date:   Fri Nov 10 01:07:02 2017 +0400
+
+    deleted file
+
+commit e630851634d10e1fba64e747cda84d6af2bfc648
+Author: annadr <33018943+annadr@users.noreply.github.com>
+Date:   Fri Nov 10 00:27:45 2017 +0400
+
+    Create anna_dr
+
+commit 736a108ff9bca71fb36b4a263ad889ffe6feb222
+Author: Sona Abrahamyan <sona@instigatemobile.com>
+Date:   Thu Nov 9 18:46:37 2017 +0400
+
+    Added get request
+
+commit 221e6f00ed3d1d39b8da219b0a672c82f350a72a
+Author: Sona Abrahamyan <sona@instigatemobile.com>
+Date:   Thu Nov 9 18:40:40 2017 +0400
+
+    Added new Astgh folder
+
+commit 4baf742e6a81e2fd8b3f850223fd525ecd04d929
+Author: Sona Abrahamyan <sona@instigatemobile.com>
+Date:   Thu Nov 9 17:36:47 2017 +0400
+
+    My request homework
+
+commit 6dd3c3df743c7e69360245ebe4274bcd8ebf9305
+Author: aruseak <arus.aghabekian@gmail.com>
+Date:   Thu Nov 9 11:17:10 2017 +0400
+
+    Add Varsik folder.
+
+commit 4c398ae75619b4217aa4f16e85d804fff238448d
+Author: Anush21 <anush.lalazaryan@gmail.com>
+Date:   Wed Nov 8 08:32:21 2017 +0400
+
+    Request
+
+commit cd43b583a2e8da554dd8af24cf8547a3ef935b26
+Author: Zhenya Tatintsyan <zhenya@instigatemobile.com>
+Date:   Tue Nov 7 13:17:12 2017 +0400
+
+    Added my folder ;)
+
+commit a95b41968889ad02e56591e49e251b42f961439c
+Author: Anush21 <anush.lalazaryan@gmail.com>
+Date:   Tue Nov 7 09:03:48 2017 +0400
+
+    Request_Examples
+
+commit 2befa82177b492d6429ad725e3e60671e0545a79
+Author: Mane Mkrtchyan <mane_m@instigatemobile.com>
+Date:   Fri Oct 27 15:01:36 2017 +0400
+
+    Adding anew folder
+
+commit e28ad1550f2efb6bfcee5071c8453a4b770e136f
+Author: Sona Abrahamyan <sona@instigatemobile.com>
+Date:   Fri Oct 27 14:27:09 2017 +0400
+
+    First work
+
+commit 5474571afaded1e80f82942319881bb391b8a7b2
+Author: AnushInstigate <32926867+AnushInstigate@users.noreply.github.com>
+Date:   Fri Oct 27 08:56:50 2017 +0400
+
+    Created_Branch_dev
+
+commit 7ee6ce2aabc64edc15b9018fb48605267dadf5b7
+Author: Anush21 <anush.lalazaryan@gmail.com>
+Date:   Fri Oct 27 08:55:17 2017 +0400
+
+    Creting_Branch_dev
+
+commit 6cecf4fecd9488198bde70ebd92ba59783ac8a55
+Author: Anush21 <anush.lalazaryan@gmail.com>
+Date:   Fri Oct 27 08:51:44 2017 +0400
+
+    Homework_1
+
+commit 7a5771aae0a37246f5c9054ab92f0c1fc20a83d8
+Author: aruseak <arus.aghabekian@gmail.com>
+Date:   Thu Oct 26 12:48:49 2017 +0400
+
+    ankap
+
+commit adce61f0199310ae11934120b8e215ee57f0d75c
+Author: aruseak <arus.aghabekian@gmail.com>
+Date:   Tue Oct 24 15:13:49 2017 +0400
+
+    Last Edited One.
+
+commit e7c2422ef61ddea6059a777d4b7d07a9af6b9b89
+Author: aruseak <arus.aghabekian@gmail.com>
+Date:   Tue Oct 24 12:41:44 2017 +0400
+
+    Conflict.
+
+commit 7115c4a6bf050079b88a7a4338168d18454d4c73
+Author: aruseak <arus.aghabekian@gmail.com>
+Date:   Tue Oct 24 12:31:05 2017 +0400
+
+    Edited.
+
+commit d6405ac43b973db147fa25b0b1085f45b8e0e3d2
+Author: aruseak <arus.aghabekian@gmail.com>
+Date:   Tue Oct 24 12:26:32 2017 +0400
+
+    Added Arus folder.
+
+commit be02433408da5f2dfce15bd15b43e1aec02a7eb8
+Author: Joseph Karayan <josephqarayan@gmail.com>
+Date:   Mon Oct 16 12:27:19 2017 +0400
+
+    Initial commit
