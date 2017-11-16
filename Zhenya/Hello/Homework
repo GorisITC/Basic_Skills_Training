@@ -2,12 +2,12 @@
 
 * Requests
 
-# GET git@github.com:ZhenyaTatintsyan/Training.git/Homework/աշխատակիցների-անունները
-# GET git@github.com:ZhenyaTatintsyan/Training.git/Homework/աշխատակցուհիների անունները
-# GET git@github.com:ZhenyaTatintsyan/Training.git/Homework/աշխատակից տղաների անունները
+# GET git@github.com:ZhenyaTatintsyan/Training.git/Homework/workers
+# GET git@github.com:ZhenyaTatintsyan/Training.git/Homework/girls names
+# GET git@github.com:ZhenyaTatintsyan/Training.git/Homework/boys names
 
 * Responses
-# Headers/Tags/Timing-Stamps/Cache-control/Content-Lenght/Content-Tipe/Status/path
+# Headers/Tags/Timing-Stamps/Cache-control/Content-Lenght/Content-Type/Status/path
 # Headers/Tags/Timing-Stamps/Cache-Control/Content-Lenght/Content-Type/Status/query1
 # Headers/Tags/Timing-Stamps/Cache-Control/Content-Lenght/Content-Type/Status/query2
 
