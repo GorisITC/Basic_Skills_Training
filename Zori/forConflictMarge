@@ -1,0 +1,6 @@
+int count = employeesCount();
+if(count >= 40){
+print("Gig company");
+} else {
+print("Small company");
+}

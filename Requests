@@ -24,3 +24,46 @@ Request (create endpoint) URL:
 3. a) https://instigatemobile.com/employees/search/?page=1&gt=<given><argument>
 3. b) https://instigatemobile.com/employees?id={"gt":20}
 _______________________done_____________________________
+
+Zori
+https://example.com/employees
+https://example.com/employees/male
+https://example.com/employees/female
+https://example.com/employees/male?age=68
+https://example.com/employees/female?age=20&experience=2
+
+Rafayel
+https://urlexample.com/.html
+https://urlexample.com/.html/girls/female?age=20
+https://urlexample.com/.html/boys/male?age=20&name=Rafo
+
+________________________________________________________
+Arsen
+https://cars.com/search?
+https://cars.com/search?type=sedans/
+https://cars.com/search?type=sedans/Audi?year=2015
+https://cars.com/search?type=sedans/Audi?year=2015&model=A5
+https://cars.com/search?type=sedans/Audi?year=2015&model=A5&price=17000$
+
+Anna
+https://instigatemibile.com/employees/male?age=20/
+
+__________________________________________________________
+Aleta
+GET https://mobile/employee/{gender}?years={the working years count. e.g 2}
+
+https://mobile/employee/girls
+https://mobile/employee/boys
+https://mobile/employee/girls?years=4
+https://mobile/employee/boys?years=7
+
+__________________________________________________________
+Varsik
+GET https://www.beachbodyondemand.com/trainers/tony-horton
+
+https://InstigateMobile_GorisBranch/Employee.html
+https://InstigateMobile_GorisBranch/Employee.html/?type=girls
+https://InstigateMobile_GorisBranch/Employee.html?type=boys
+https://InstigateMobile_GorisBranch/Employee.html/?type>=2year
+
+
