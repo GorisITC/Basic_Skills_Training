@@ -34,8 +34,6 @@ https://example.com/employees/female?age=20&experience=2
 
 Rafayel
 https://urlexample.com/.html
-https://urlexample.com/.html/girls/female?age=20
-https://urlexample.com/.html/boys/male?age=20&name=Rafo
 
 ________________________________________________________
 Arsen
@@ -56,3 +54,15 @@ https://mobile/employee/girls
 https://mobile/employee/boys
 https://mobile/employee/girls?years=4
 https://mobile/employee/boys?years=7
+
+__________________________________________________________
+Varsik
+GET https://www.beachbodyondemand.com/trainers/tony-horton
+
+https://InstigateMobile_GorisBranch/Employee.html
+https://InstigateMobile_GorisBranch/Employee.html/?type=girls
+https://InstigateMobile_GorisBranch/Employee.html?type=boys
+https://InstigateMobile_GorisBranch/Employee.html/?type>=2year
+https://urlexample.com/.html/girls/female?age=20
+https://urlexample.com/.html/boys/male?age=20&name=Rafo
+
