@@ -83,8 +83,26 @@ https://instigoris.com/stuff.jason
 https://instigoris.com/stuff/girls
 https://instigoris.com/stuff?gender=boy&salary=50000AMD
 https://instigoris.com/stuff?gender=girls&salary=150000AMD
+___________________________________________________________
+Anush Lalazaryan
 
+POST /instigatemobile/employees/
+Host: www.anush.com
+Content-Type: application/json
+Content-Length: nn  5 
 
-
-
-
+{
+   "employees":
+  {
+    "firstName": "Anush”,
+    "lastName": “Lalazaryan”,
+    "position": "QA"
+    "adress":
+    {
+        "streetAddress": "g. Narekatsi Street",
+        "city": "Goris",
+        "state": "Syuniq",
+    }
+    "phone_number": "+374-60-445700"
+  }
+}
