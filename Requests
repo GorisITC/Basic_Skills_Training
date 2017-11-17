@@ -76,11 +76,15 @@ https://InstigateMobile_GorisBranch/Employee.html/?type=girls
 https://InstigateMobile_GorisBranch/Employee.html?type=boys
 https://InstigateMobile_GorisBranch/Employee.html/?type>=2year
 
-https://Instigatemobile.com/employees.php
+Anna
+Get https://Instigatemobile.com/employees.txt
+Get https://Instigatemobile.com/eployees?age=20&gender=girl
+https://instigoris.com/stuff.jason
+https://instigoris.com/stuff/girls
+https://instigoris.com/stuff?gender=boy&salary=50000AMD
+https://instigoris.com/stuff?gender=girls&salary=150000AMD
 
 
-https://instigatemibile.com/employees/male?age=20/
-https://instigatemibile.com/employees.txt
-https://cars.com/model/search?
-https://cars.com/model/BMW.php
+
+
 
