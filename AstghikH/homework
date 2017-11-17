@@ -1,0 +1,5 @@
+GET https://instagram/users/{user activity type=online/offline and etc}?type=<usertype>&age=<user age>&userlocation=<userlocation>
+
+https://instagram.com/users/online
+https://instagram.com/users/activ?type=user&age=25&location=USA
+https://instagram.com/users/offline?type=admin
