@@ -1,5 +1,6 @@
 # How to set numbers in the enf of each line
 1. Go to end of the line - Shift+$
+1. Navigate to the end of the line - Shift+$
 2. Go to Insert mode - Shift+I
 3. Enter "  -1"
 4. Esc
