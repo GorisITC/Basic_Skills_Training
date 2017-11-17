@@ -38,12 +38,22 @@ https://urlexample.com/.html/girls/female?age=20
 https://urlexample.com/.html/boys/male?age=20&name=Rafo
 
 ________________________________________________________
-Arsen
-https://cars.com/search?
-https://cars.com/search?type=sedans/
-https://cars.com/search?type=sedans/Audi?year=2015
-https://cars.com/search?type=sedans/Audi?year=2015&model=A5
-https://cars.com/search?type=sedans/Audi?year=2015&model=A5&price=17000$
+Arsen Simonyan.
+GET https://cars.com/search?type=<car type>&year=<year from 2015>&model=<car model>&price=<car price in dolars>
+
+https://cars.com/model/search?
+https://cars.com/model/search?
+https://cars.com/model/search?type=sedans
+https://cars.com/search?type=sedansAudi&year=2015
+https://cars.com/search?type=sedansAudi&year=2015&model=A5
+https://cars.com/search?type=sedansAudi&year=2015&model=A5&price=17000
+
+https://buy.am/restorants/{give me restoran name}/info?addres={hasce}&telephone={give me Armenian mobile number}
+
+https://buy.am/restorants/wasabi/info
+https://buy.am/restorants/Abu_Hakob/info?adress=ankakhutyna%2098
+https://buy.am/restorants/Abu_Hakob/info?adress=ankakhutyna%2098&telephone=37423746238
+
 
 Anna
 https://instigatemibile.com/employees/male?age=20/
@@ -66,4 +76,33 @@ https://InstigateMobile_GorisBranch/Employee.html/?type=girls
 https://InstigateMobile_GorisBranch/Employee.html?type=boys
 https://InstigateMobile_GorisBranch/Employee.html/?type>=2year
 
+Anna
+Get https://Instigatemobile.com/employees.txt
+Get https://Instigatemobile.com/eployees?age=20&gender=girl
+https://instigoris.com/stuff.jason
+https://instigoris.com/stuff/girls
+https://instigoris.com/stuff?gender=boy&salary=50000AMD
+https://instigoris.com/stuff?gender=girls&salary=150000AMD
+___________________________________________________________
+Anush Lalazaryan
 
+POST /instigatemobile/employees/
+Host: www.anush.com
+Content-Type: application/json
+Content-Length: nn  5 
+
+{
+   "employees":
+  {
+    "firstName": "Anush”,
+    "lastName": “Lalazaryan”,
+    "position": "QA"
+    "adress":
+    {
+        "streetAddress": "g. Narekatsi Street",
+        "city": "Goris",
+        "state": "Syuniq",
+    }
+    "phone_number": "+374-60-445700"
+  }
+}

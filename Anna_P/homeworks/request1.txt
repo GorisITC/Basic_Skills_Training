@@ -1,0 +1,11 @@
+1. https://device.com/phones
+
+2. https://devices.com/phones/Samsung?OS=5.0&location=Goris
+
+3. https://devices.com/tablets/
+
+4. https://devices.com/tablets/Lenovo?OS=7.1&screensize=10.1-inch
+
+5. https://brand?os={os}&location={loaction}
+
+6. https://devices?{type}={type}&{brand}={brand}&os{os}={os}
