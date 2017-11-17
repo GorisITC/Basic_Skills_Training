@@ -1,0 +1,21 @@
+Get https://devices/model/location.php
+{
+  "credentials": {
+    "devices": "alldevices",
+    "model": "model",
+    "location": {
+      "loaction": ""
+    }
+}
+
+
+Get https://devices/model/Goris?os=5.0&tabs=Samsung
+{
+  "credentials": {
+    "devices": "alldevices",
+    "model": "model",
+    "location": "Goris''
+    { "os": 5.0, "tabs'':
+      "Samsung": ""
+    }
+}
