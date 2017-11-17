@@ -1,3 +1,7 @@
 I want to merge two different files into my reposotory. 
 
+<<<<<<< HEAD
+This file will be committed for merging conflict.
+=======
 I have met a conflict during the commit process.
+>>>>>>> 05bb38e181505ef775e1a0ecd39f7dfedc56dcad
