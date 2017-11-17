@@ -117,3 +117,12 @@ GET https://InstigateMobile/GorisBranch/employee/{gender}?year={1}
 https://InstigateMobile/GorisBranch/Employee.html
 https://InstigateMobile/GorisBranch/Employee.html/employees/?type=girls
 https://InstigateMobile/GorisBranch/Employee.html/employees/?type=boys
+
+
+-------------------------------------------------------------
+Astghi Harutyunyan
+GET https://instagram/users/{user activity type=online/offline and etc}?type=<usertype>&age=<user age>&userlocation=<userlocation>
+
+https://instagram.com/users/online
+https://instagram.com/users/activ?type=user&age=25&location=USA
+https://instagram.com/users/offline?type=admin
