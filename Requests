@@ -76,9 +76,11 @@ __________________________________________________________
 Varsik
 GET https://www.beachbodyondemand.com/trainers/tony-horton
 
+GET https://InstigateMobile_GorisBranch/Employee{gender}?type={years of working for the IM}
+
 https://InstigateMobile_GorisBranch/Employee.html
-https://InstigateMobile_GorisBranch/Employee.html/?type=girls
-https://InstigateMobile_GorisBranch/Employee.html?type=boys
+https://InstigateMobile_GorisBranch/Employee.html/girls
+https://InstigateMobile_GorisBranch/Employee.html/boys
 https://InstigateMobile_GorisBranch/Employee.html/?type>=2year
 
 Anna
