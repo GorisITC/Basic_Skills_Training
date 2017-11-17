@@ -3,4 +3,4 @@ GET https://InstigateMobile/GorisBranch/employee/{gender}?year={1}
 https://InstigateMobile/GorisBranch/Employee.html
 https://InstigateMobile/GorisBranch/Employee.html/employees/?type=girls
 https://InstigateMobile/GorisBranch/Employee.html/employees/?type=boys
-https://InstigateMobile/GorisBranch/Employee.html/members/?salary=1year
+
