@@ -42,6 +42,7 @@ Arsen Simonyan.
 GET https://cars.com/search?type=<car type>&year=<year from 2015>&model=<car model>&price=<car price in dolars>
 
 https://cars.com/model/search?
+https://cars.com/model/search?
 https://cars.com/model/search?type=sedans
 https://cars.com/search?type=sedansAudi&year=2015
 https://cars.com/search?type=sedansAudi&year=2015&model=A5
