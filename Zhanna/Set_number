@@ -1,0 +1,23 @@
+# How to set numbers in the enf of each line
+1. Go to end of the line - Shift+$
+1. Navigate to the end of the line - Shift+$
+2. Go to Insert mode - Shift+I
+3. Enter "  -1"
+4. Esc
+5. Go to Record mode - q[p]
+6. Go to Visual mode - Ctrl+v
+7. Select the "  -1"
+8. Copy the selected text - y
+9. Go to the next line - j
+10.Go to the end of line - Sift+$
+11.Paste the text - p
+12.Select the number and Ctrl+a
+13.Complete record - q
+14.Run record [xx] Shift+@ [p]
+<<<<<<< HEAD
+15.The numbers should be set in the end of lines
+16.Added by Zhanna
+=======
+15.The numbers should be set in the end of each line
+16. Added by Mane
+>>>>>>> 0a105d9ae0a2f8ebbf1278492cd6fa93af9a84bb
