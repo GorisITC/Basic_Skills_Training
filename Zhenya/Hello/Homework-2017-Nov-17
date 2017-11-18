@@ -1,0 +1,27 @@
+* Requests
+
+GET https://instigatemobile.com/property/?type=table&&type=computers&type=desk
+
+Request URL: https://InstigateMobile.com/ HTTP/1.1 
+Request Method:GET
+Remote Address:172.12.45:443
+Accept:application/json
+Accept-Language:en-US
+Connection:keep-alive
+Cookie:PHPSESSID=r2s0iu3d4f3p93tgivub4n2pv3; v_root=; lang=en; def_lang=en
+Host:ggg.instigatemobile.com
+Referer:http://ggg.instigatemobile.com/
+User-Agent:Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
+X-Requested-With:XMLHttpRequest
+
+*Responses
+Access-Control-Allow-Headers:Content-Type
+Access-Control-Allow-Methods:POST, GET, PUT, OPTIONS
+Access-Control-Allow-Origin:*
+Access-Control-Max-Age:1000
+Cache-Control:no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Connection:keep-alive
+Content-Type:application/json
+Date:Sat, 18 Nov 2017 19:57:09 GMT
+Expires:Thu, 19 Nov 1981 08:52:00 GMT
+
