@@ -114,6 +114,33 @@ Content-Length: nn  5
   }
 }
 
+
+Request URL: https://anush.com/instigatemobile/employees/{anush}
+Request method: GET
+Remote address: 217.55.211.13:443
+Status code: 200 OK
+Version: HTTP/2.0
+
+
+Response:
+{
+   "employees":
+  {
+    "firstName": "Anush”,
+    "lastName": “Lalazaryan”,
+    "position": "QA"
+    "adress":
+    {
+        "streetAddress": "g. Narekatsi Street",
+        "city": "Goris",
+        "state": "Syuniq",
+    }
+    "phone_number": "+374-60-445700"
+  }
+}
+
+__________________________________________________________________________
+
 Meline Hovsepyan
 GET https://InstigateMobile/GorisBranch/employee/{gender}?year={1}
 https://InstigateMobile/GorisBranch/Employee.html
