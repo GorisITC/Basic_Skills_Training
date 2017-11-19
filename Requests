@@ -114,6 +114,8 @@ Content-Length: nn  5
   }
 }
 
+(Merge)
+
 Meline Hovsepyan
 GET https://InstigateMobile/GorisBranch/employee/{gender}?year={1}
 https://InstigateMobile/GorisBranch/Employee.html
