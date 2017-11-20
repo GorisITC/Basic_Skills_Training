@@ -1,0 +1,14 @@
+GET https://my_mobile/cotacts/{contact_type}/?contact_name finishes K (e.g. Garnik)
+
+Request URL: https://my_mobile/contacts/phone/?contact_name~K
+Request Method: GET
+Status Code: 200
+Response headers:
+
+{
+contact_type = phone
+contact_name = Andranik
+Date: Sun, Nov 19 2017 23:04:19 GMT
+Content type = nmx file/.txt
+}
+
