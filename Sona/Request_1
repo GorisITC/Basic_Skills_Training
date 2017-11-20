@@ -19,3 +19,32 @@ Request URL: https://sona.com/instigatemobile/employees/{sona}
  +    }
  +    "phone_number": "+374-091999377"
  
+
+
+
+Body
+Request URL: https://sona.com/instigatemobile/Intern/{sona}
+Request method: GET
+
+"Response" : {
+"employees":
+{
+   "firstName": "Sona”,
+    "lastName": “Abrahamyan”,
+    "position": "Intern"
+    "adress":
+}
+  "Address": {
+       "street1": "Nor Vanqi tap 8/11",
+       "city": "Goris",
+       "region": "Syunic",
+       "country": "Armenia"
+     },
+   "paymentInfo": {
+       "firstName": "Sona",
+       "lastName": "Abrahamyan",
+       "expDateMonth": "01",
+       "expDateYear": "20",
+       "creditCardNumber": "4874635222058576",
+       "ccType": "VISA",
+     }
