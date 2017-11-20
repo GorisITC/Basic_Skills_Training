@@ -1,0 +1,21 @@
+Request URL: https://sona.com/instigatemobile/employees/{sona}
+ +Request method: GET
+ +Remote address: 217.55.211.13:443
+ +Status code: 200 OK
+ +Version: HTTP/2.0
+ +
+ +
+ +Response:
+ +{
+ +   "employees":
+ +  {
+ +    "firstName": "Sona”,
+ +    "lastName": “Abrahamyan”,
+ +    "position": "QA"
+ +    "adress":
+ +    {
+ +        "streetAddress": "Vanki tap 8/11",
+ +        "city": "Goris",
+ +        "state": "Syuniq",
+ +    }
+ +    "phone_number": "+374-091999377"
