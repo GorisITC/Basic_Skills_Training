@@ -10,7 +10,7 @@ Request URL: https://sona.com/instigatemobile/employees/{sona}
  +  {
  +    "firstName": "Sona”,
  +    "lastName": “Abrahamyan”,
- +    "position": "QA"
+ +    "position": "Intern"
  +    "adress":
  +    {
  +        "streetAddress": "Vanki tap 8/11 ",
@@ -18,3 +18,4 @@ Request URL: https://sona.com/instigatemobile/employees/{sona}
  +        "state": "Syuniq",
  +    }
  +    "phone_number": "+374-091999377"
+ 
