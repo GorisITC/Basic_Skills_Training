@@ -2,7 +2,6 @@ Request URL: https://sona.com/instigatemobile/employees/{sona}
  +Request method: GET
  +Remote address: 212.34.226.90:80
  +Status code: 200 OK
- +Version: HTTP/2.0
  +
  +
  +Response:
@@ -14,7 +13,7 @@ Request URL: https://sona.com/instigatemobile/employees/{sona}
  +    "position": "QA"
  +    "adress":
  +    {
- +        "streetAddress": "Vanki tap 8/11",
+ +        "streetAddress": "Vanki tap 8/11 ",
  +        "city": "Goris",
  +        "state": "Syuniq",
  +    }
