@@ -1,6 +1,6 @@
 * Requests
 
-GET https://instigatemobile.com/property/?type=table&&type=computers&type=desk
+GET https://instigatemobile.com/property/?type=table&type=computers&type=desk
 
 Request URL: https://InstigateMobile.com/ HTTP/1.1 
 Request Method:GET
