@@ -1,0 +1,4 @@
+GET_ http://vard.com/resident/male/number/{Goris}/
+     http://vard.com/resident/male/{Goris}?age=18&height=178
+
+
