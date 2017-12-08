@@ -1,0 +1,10 @@
+Request method:GET
+Request URL_http://vard.com/resident/male/number/{Goris}/
+
+Request body
+User_Agent:Google Chrome v/62
+Host:vard.com
+Accept_language:en
+Content_Type:application/json
+Content_Lenght:lenght
+Connection:Keep Alive
